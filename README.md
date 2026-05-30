@@ -1,97 +1,118 @@
-# 👋 Hi, I'm Harshit Kumar
+# Harshit Kumar
 
-🎓 B.Tech in Computer Science & Technology  
-🤖 AI / Machine Learning & Computer Vision Enthusiast  
-💻 Passionate about building real-world, impact-driven software solutions  
+Software Developer | Backend Developer | AI/ML Engineer
 
----
+Computer Science undergraduate with experience in backend development, AI/ML, computer vision, and scalable application design. Skilled in building REST APIs, machine learning systems, and data-driven applications using Python and modern development tools.
 
-## 🚀 About Me
+## Education
 
-I'm a Computer Science undergraduate with strong hands-on experience in **AI, Machine Learning, Computer Vision, and Full-Stack development**.  
-I enjoy turning ideas into working products — from intelligent traffic systems to AI-powered resume analysis tools.
-
-I actively participate in **hackathons**, work on **end-to-end projects**, and focus on writing clean, scalable code.
+**B.Tech, Computer Science Engineering**
+GL Bajaj Institute of Technology and Management
+2024 – 2028
 
 ---
 
-## 🧠 Core Skills
+## Technical Skills
 
-- **Programming:** Python, C, C++, JavaScript  
-- **AI / ML:** Machine Learning, Deep Learning, YOLOv8, Model Training & Evaluation  
-- **Computer Vision:** OpenCV, Image Processing, Object Detection  
-- **Web Development:** Flask, FastAPI, HTML, CSS  
-- **Automation & Tools:** PyAutoGUI, System Automation, APIs  
-- **Databases:** MongoDB  
-- **Other:** Git, GitHub, PDF Report Generation, REST APIs  
+### Languages
 
----
+Python, C, C++, SQL
 
-## 🏆 Featured Projects
+### Backend Development
 
-### 🔹 AI Resume Analyzer
-📌 *AI-powered web application using Google Gemini API*  
-- Compares resumes with job descriptions  
-- Generates compatibility scores and improvement suggestions  
-- Produces downloadable PDF reports  
+FastAPI, Flask, REST APIs, JWT Authentication, SQLAlchemy
 
-🔗 Repository: `resume_analyser`
+### AI / Machine Learning
 
----
+Machine Learning, Supervised Learning, Classification, Regression, Computer Vision, YOLO, TensorFlow, PyTorch
 
-### 🔹 DentaScanAI – Dental Health Detection
-🦷 *AI-powered dental issue detection system*  
-- Built using **YOLOv8**, OpenCV, and Deep Learning  
-- Detects dental issues from X-ray images  
-- Designed during a national-level hackathon  
+### Databases
 
-🔗 Repository: `dental_detection`
+MongoDB, PostgreSQL, SQLite
+
+### Libraries & Tools
+
+Pandas, NumPy, OpenCV, Matplotlib, Git, GitHub, Docker, CI/CD
 
 ---
 
-### 🔹 SmartFlow – Intelligent Traffic Management System
-🚦 *AI-based real-time traffic analysis solution*  
-- Uses YOLOv8 for vehicle detection  
-- Dynamically optimizes traffic signal timings  
-- Focused on reducing congestion and improving road efficiency  
+## Projects
 
-🔗 Repository: `SmartFlow`
+### Campus IQ
 
----
+College event management platform built with FastAPI and Tailwind CSS.
 
-### 🔹 HOMI – Intelligent PC Automation Bot
-🤖 *Python-based automation system*  
-- Remote system control via WhatsApp  
-- Performs screen actions, monitoring, and automation  
-- Built using PyAutoGUI and OpenCV  
+* Developed backend APIs for event creation, registration, and user management
+* Designed scalable architecture to support concurrent users
+* Automated event coordination workflows, reducing manual effort
 
-🔗 Repository: `HOMI`
+**Repository:** `Campus-IQ`
 
 ---
 
-## 📊 GitHub Stats
+### Traffic Analysis System
 
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit-033&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-033&layout=compact&theme=tokyonight)
+AI-powered traffic monitoring and vehicle detection solution.
 
----
+* Trained object detection model on 20,000+ images
+* Achieved 85% classification accuracy
+* Built real-time traffic analysis pipeline using YOLO and OpenCV
+* Processed live video streams for monitoring and analytics
 
-## 🌱 Currently Learning
-
-- Advanced Computer Vision  
-- Model optimization & deployment  
-- Scalable backend architectures  
-- Real-world AI system design  
+**Repository:** `Traffic-Analysis`
 
 ---
 
-## 🤝 Let’s Connect
+### DentaScan
 
-- 💼 Open to **internships, hackathons, and collaborative projects**
-- 📫 Reach me through GitHub  
+Computer vision system for dental diagnosis from X-ray images.
 
-⭐ If you find my projects useful, consider starring them!
+* Trained on 15,000+ dental images
+* Achieved 82.3% diagnostic accuracy
+* Implemented image preprocessing and classification pipeline
+* Built workflow for efficient diagnosis and analysis
+
+**Repository:** `DentaScan`
 
 ---
 
-> *"Build things that solve real problems — learning follows naturally."*
+### HOMI
+
+WhatsApp-controlled desktop automation assistant.
+
+* Developed automation workflows using Python and PyAutoGUI
+* Enabled remote task execution through messaging commands
+* Designed reusable automation pipelines for system operations
+
+**Repository:** `HOMI`
+
+---
+
+### Maze Solver
+
+Pathfinding visualization and algorithm implementation project.
+
+* Implemented DFS and BFS algorithms
+* Designed modular object-oriented architecture
+* Evaluated and compared pathfinding performance
+
+**Repository:** `Maze-Solver`
+
+---
+
+## Achievements
+
+* Solved 100+ Data Structures and Algorithms problems in 24 days
+* LeetCode Rating: 1460
+* Codeforces Rating: 900+
+* Finalist in 4 out of 10+ hackathons
+* NPTEL Certified in Database Management Systems
+* AWS Academy Cloud Foundations (Pursuing)
+
+---
+
+## Contact
+
+* LinkedIn
+* GitHub
+* Email: [harshit.k.singh03102004@gmail.com](mailto:harshit.k.singh03102004@gmail.com)
