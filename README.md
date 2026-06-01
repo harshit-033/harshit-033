@@ -36,19 +36,6 @@ Pandas, NumPy, OpenCV, Matplotlib, Git, GitHub, Docker, CI/CD
 
 ---
 
-## Projects
-
-### College_Buddy
-
-College event management platform built with FastAPI and Tailwind CSS.
-
-* Developed backend APIs for event creation, registration, and user management
-* Designed scalable architecture to support concurrent users
-* Automated event coordination workflows, reducing manual effort
-
-**Repository:** `Campus-IQ`
-
----
 
 
 ## Achievements
