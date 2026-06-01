@@ -38,7 +38,7 @@ Pandas, NumPy, OpenCV, Matplotlib, Git, GitHub, Docker, CI/CD
 
 ## Projects
 
-### Campus IQ
+### College_Buddy
 
 College event management platform built with FastAPI and Tailwind CSS.
 
@@ -50,55 +50,6 @@ College event management platform built with FastAPI and Tailwind CSS.
 
 ---
 
-### Traffic Analysis System
-
-AI-powered traffic monitoring and vehicle detection solution.
-
-* Trained object detection model on 20,000+ images
-* Achieved 85% classification accuracy
-* Built real-time traffic analysis pipeline using YOLO and OpenCV
-* Processed live video streams for monitoring and analytics
-
-**Repository:** `Traffic-Analysis`
-
----
-
-### DentaScan
-
-Computer vision system for dental diagnosis from X-ray images.
-
-* Trained on 15,000+ dental images
-* Achieved 82.3% diagnostic accuracy
-* Implemented image preprocessing and classification pipeline
-* Built workflow for efficient diagnosis and analysis
-
-**Repository:** `DentaScan`
-
----
-
-### HOMI
-
-WhatsApp-controlled desktop automation assistant.
-
-* Developed automation workflows using Python and PyAutoGUI
-* Enabled remote task execution through messaging commands
-* Designed reusable automation pipelines for system operations
-
-**Repository:** `HOMI`
-
----
-
-### Maze Solver
-
-Pathfinding visualization and algorithm implementation project.
-
-* Implemented DFS and BFS algorithms
-* Designed modular object-oriented architecture
-* Evaluated and compared pathfinding performance
-
-**Repository:** `Maze-Solver`
-
----
 
 ## Achievements
 
