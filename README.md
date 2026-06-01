@@ -112,7 +112,7 @@ Pathfinding visualization and algorithm implementation project.
 ---
 
 ## Contact
-
+<a href="https://www.linkedin.com/in/harshitkumar5585">Linkedin</a>
 * LinkedIn: [https://www.linkedin.com/in/harshitkumar5585]
 * GitHub: [https://github.com/harshit-033]
 * Email: [harshit.k.singh03102004@gmail.com](mailto:harshit.k.singh03102004@gmail.com)
