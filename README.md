@@ -1,56 +1,75 @@
 # Harshit Kumar
 
-Software Developer | Backend Developer | AI/ML Engineer
+Software Engineering Student | Backend Development | AI and Machine Learning
 
-Computer Science undergraduate with experience in backend development, AI/ML, computer vision, and scalable application design. Skilled in building REST APIs, machine learning systems, and data-driven applications using Python and modern development tools.
+Computer Science undergraduate at GL Bajaj Institute of Technology and Management, focused on building reliable backend systems and practical AI applications.
 
-## Education
+My work sits at the intersection of software engineering, backend development, machine learning, computer vision, and modern AI systems. I enjoy understanding systems from fundamentals, solving engineering problems, and turning ideas into working software.
 
-**B.Tech, Computer Science Engineering**
-GL Bajaj Institute of Technology and Management
-2024 – 2028
+## Current Focus
 
----
+- Backend engineering and API development
+- Artificial intelligence and machine learning
+- LLM applications, RAG, and local AI systems
+- Computer vision and applied deep learning
+- Data structures, algorithms, and problem solving
+- Software design, reliability, and maintainable code
 
 ## Technical Skills
 
 ### Languages
 
-Python, C, C++, SQL
+C++ · Python · Java · SQL · JavaScript
 
-### Backend Development
+### Backend and Software Engineering
 
-FastAPI, Flask, REST APIs, JWT Authentication, SQLAlchemy
+FastAPI · Spring Boot · Flask · REST APIs · WebSockets · JWT · RBAC · SQLAlchemy · Maven
 
-### AI / Machine Learning
+### Frontend
 
-Machine Learning, Supervised Learning, Classification, Regression, Computer Vision, YOLO, TensorFlow, PyTorch
+React · HTML5 · CSS3 · Tailwind CSS · Vite
+
+### AI and Machine Learning
+
+Machine Learning · PyTorch · Scikit-learn · YOLO · Computer Vision · OpenCV · TensorFlow
+
+### Generative AI
+
+LLM Applications · RAG · Ollama · ChromaDB · Local AI · Prompt Engineering
+
+### Data and Document Processing
+
+Pandas · NumPy · PyMuPDF · Tesseract OCR
 
 ### Databases
 
-MongoDB, PostgreSQL, SQLite
+PostgreSQL · MongoDB · SQLite
 
-### Libraries & Tools
+### Tools and Platforms
 
-Pandas, NumPy, OpenCV, Matplotlib, Git, GitHub, Docker, CI/CD
+Git · GitHub · Docker · Linux
 
----
+## Education
 
+B.Tech in Computer Science Engineering  
+GL Bajaj Institute of Technology and Management  
+2024 – 2028
 
+## Certifications and Achievements
 
-## Achievements
+- CS50's Introduction to Artificial Intelligence with Python — Harvard University / CS50
+- NPTEL Certified in Database Management Systems
+- AWS Academy Cloud Foundations
+- Finalist in 4 out of 10+ hackathons
 
-* Solved 100+ Data Structures and Algorithms problems in 24 days
-* LeetCode Rating: 1460
-* Codeforces Rating: 900+
-* Finalist in 4 out of 10+ hackathons
-* NPTEL Certified in Database Management Systems
-* AWS Academy Cloud Foundations (Pursuing)
+## Goal
 
----
+To grow into a strong software engineer capable of designing backend systems and AI-powered products that are reliable, efficient, maintainable, and useful in real-world environments.
 
-## Contact
-* <a href="https://www.linkedin.com/in/harshitkumar5585">LinkedIn</a>
-* <a href="https://github.com/harshit-033">GitHub</a>
-* <a href="mailto:harshit.k.singh03102004@gmail.com">Email</a>
+I am particularly interested in backend engineering, AI infrastructure, applied machine learning, and building practical systems around modern language models.
 
+## Connect
+
+- LinkedIn: [harshitkumar5585](https://www.linkedin.com/in/harshitkumar5585)
+- GitHub: [harshit-033](https://github.com/harshit-033)
+- Email: [harshit.k.singh03102004@gmail.com](mailto:harshit.k.singh03102004@gmail.com)
